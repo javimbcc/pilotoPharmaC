@@ -21,9 +21,6 @@ namespace pilotoPharma.Models.Consultas
                 int cont = listProductos.Count();
                 System.Console.WriteLine(" Lista compuesta por: " + cont + " productos");
                 System.Console.WriteLine("SALIMOS DE LA CONSULTA Y DEL METODO LISTAR PRODUCTOS");
-                System.Console.WriteLine("-----------------------------------------------------");
-                System.Console.WriteLine("CERRANDO LA CONEXION");
-                conexionGenerada.Close();
                 resultadoConsulta.Close();
             }
             catch (Exception e)
