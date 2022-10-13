@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WaIN+VUpPbHfhEPk6FrOJfIY9s4vsTfSaskuE/nMncf0KIxY/vCM+YqSzRLMpxzvYUYykz9ciO9xItoMXMAOiw==",
+  "dgSpecHash": "YMU489qFEmFHHSY3NolFKDXIvyNIYdrpkPOnUSWQQENr81KZgvXnAB0DWC4pjf7BD9x7KCm+9DboA3akGHhNYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\menaj\\source\\repos\\pilotoPharma\\pilotoPharma\\pilotoPharma.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\menaj\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\menaj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
